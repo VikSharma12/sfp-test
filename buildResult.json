@@ -1,0 +1,18 @@
+{
+    "packages": [
+        {
+            "name": "force-app",
+            "version": "1.0.0.1",
+            "elapsed_time": 16,
+            "status": "succeeded"
+        }
+    ],
+    "summary": {
+        "scheduled_packages": 1,
+        "elapsed_time": 5003,
+        "succeeded": 1,
+        "failed": 0,
+        "sucessfullReleaseConfigs": [],
+        "failedReleaseConfigs": []
+    }
+}
